@@ -1,0 +1,9 @@
+# dir
+ccpd
+
+# ckpt
+*.pth
+*.pt
+
+# file
+*.pyc
